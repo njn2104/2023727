@@ -18,7 +18,7 @@
 * 网络层
 * 数据链路层
 * 物理层
-···cpp
+```cpp
    include<iostream>
   using namespace std;
   int main(void)
@@ -26,15 +26,15 @@
 cout<<"c++"<<endl;
 return 0;
 }
-···
-···java
+```
+```java
   //一段java的代码
-···
-···bash
+```
+```bash
    netstate -apn 查看网络设备占用的命令
    pwd
    echo "回显命令"
-···
+```
 ## 插入超链接
 [BiliBili弹幕网](https://www.bilibili.com "点击进入B站") 
 ...
